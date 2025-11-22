@@ -1,3 +1,5 @@
 google-cloud-texttospeech
 s3tokenizer
 conformer
+torchcodec
+soundfile
